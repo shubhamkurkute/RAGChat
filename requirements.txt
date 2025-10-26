@@ -1,0 +1,12 @@
+fastapi
+langchain_openai
+langchain_ollama
+langchain_core
+python-dotenv
+langchain_community
+sqlalchemy
+psycopg2-binary
+chromadb
+pymupdf
+python-multipart
+gradio
