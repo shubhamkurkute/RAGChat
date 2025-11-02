@@ -10,3 +10,4 @@ chromadb
 pymupdf
 python-multipart
 gradio
+streamlit
